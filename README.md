@@ -16,31 +16,35 @@
 
 <br><br>
 
-<h3 align="center">Technical Arsenal</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,java&theme=dark" alt="Programming Languages" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,pytorch,tensorflow,docker&theme=dark" alt="Cloud and AI" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode&theme=dark" alt="Web Development" />
-  </a>
-</p>
-
-<br><br>
-
-<h3 align="center">LeetCode Progression</h3>
-
-<p align="center">
-  <a href="https://leetcode.com">
-    <img src="https://leetcard.jacoblin.cool/Slayer_1?theme=radical&font=Lora" height="180">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <h3>Technical Arsenal</h3>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,cpp,c,java&theme=dark" alt="Programming Languages" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=aws,pytorch,tensorflow,docker&theme=dark" alt="Cloud and AI" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,vscode&theme=dark" alt="Web Development" />
+        </a>
+      </p>
+    </td>
+    <td width="40"></td>
+    <td align="center" valign="top">
+      <h3>LeetCode Progression</h3>
+      <p>
+        <a href="https://leetcode.com">
+          <img src="https://leetcard.jacoblin.cool/Slayer_1?theme=radical&font=Lora" height="180" alt="LeetCode Progress" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
