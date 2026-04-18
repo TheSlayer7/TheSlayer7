@@ -35,6 +35,17 @@
 <br><br>
 
 <h3 align="center">Activity Architecture</h3>
+<br>
+
+<h3 align="center">LeetCode Progression</h3>
+
+<p align="center">
+  <a href="https://leetcode.com">
+    <img src="https://jacoblin.cool" alt="Slayer_1's LeetCode Stats" />
+  </a>
+</p>
+
+<br>
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Overview" />
