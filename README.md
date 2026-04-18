@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://leetcode.com">
-    <img src="https://jacoblin.cool" alt="Slayer_1's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Slayer_1?theme=radical&font=Lora" height="180">
   </a>
 </p>
 
