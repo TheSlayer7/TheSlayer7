@@ -34,9 +34,6 @@
 
 <br><br>
 
-<h3 align="center">Activity Architecture</h3>
-<br>
-
 <h3 align="center">LeetCode Progression</h3>
 
 <p align="center">
@@ -45,6 +42,9 @@
   </a>
 </p>
 
+<br>
+
+<h3 align="center">Activity Architecture</h3>
 <br>
 
 <p align="center">
